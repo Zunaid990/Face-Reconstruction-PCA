@@ -18,4 +18,4 @@ Dimensionality reduction and feature extraction using Principal Component Analys
 The model successfully reconstructed facial images with minimal error (RMSE: 0.0512), proving that PCA is highly effective for efficient image processing.
 
 ## 🔗 View Notebook
-[Link to Kaggle Notebook](আপনার কাগল লিঙ্কটি এখানে দিন)
+[Link to Kaggle Notebook](https://www.kaggle.com/code/mdzunaidtausif/homework-1))
