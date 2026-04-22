@@ -2,7 +2,7 @@
 
 Dimensionality reduction and feature extraction using Principal Component Analysis (PCA) on the **Olivetti Faces** dataset. This project explores how to compress high-dimensional facial data while maintaining structural integrity.
 ### 🖥️ Reconstruction Results
-![GUI Screenshot](./gui.JPG)
+![GUI Screenshot](./F.JPG)
 
 ## 🛠️ Tech Stack  
 - **Python** (NumPy, Scikit-learn, Matplotlib)
